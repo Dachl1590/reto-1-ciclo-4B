@@ -1,13 +1,15 @@
 # Reto # 1
 
-Proyecto base para el primer reto
+En el reprsente repositorio se encuentra la solucion del reto 1 del ciclo 4b desarrollo de aplicaciones moviles
 
-El código incluye comentarios que explican la estructura del proyecto y los puntos en los que se tiene que trabajar están marcados con un TODO. 
+el reto 1 propone realizar un conversor de monedas 
 
-El siguiente es un demo de la interfaz a la que se debe llegar (funcionalidades adicionales o mejoras a la interfaz son permitidas):
+a continuacion se encuentras los links de los videos donde se muestra la funcionalidad de la aplicacion y explicacion de parte del codigo
 
-<img src="https://user-images.githubusercontent.com/4458129/173209201-ecf02c3e-8571-42a0-92d5-5a9111f5b3b0.gif" width="300" />
+link funcionalidad de la aplicacion:
+https://uninorte-my.sharepoint.com/:v:/g/personal/deyvidc_uninorte_edu_co/ETvGgJk8ZMNLiwd3SzLqLToBOLIkTAJVKKqtiwFCiw8dnA?e=f3GecR
 
-Solución:
 
-https://github.com/MisionTIC4b/f_currency_converter
+link explicacion del codigo:
+https://uninorte-my.sharepoint.com/:v:/g/personal/deyvidc_uninorte_edu_co/EfQqxnmL8VZDogmCeXuEkTwBu8qDfcreyrYWz5KtIMuqPQ?e=jwTUnI
+
